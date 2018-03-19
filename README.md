@@ -2,8 +2,7 @@
 Implementation of the logistic regression algorithm in java
 
 The link to the dataset that I used to test the algorithm:
-http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+
-%28Diagnostic%29
+http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
 I used 367 instances to train the algorithm (40% of the dataset).
 
