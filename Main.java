@@ -1,4 +1,3 @@
-//Ευάγγελος Δράικος3150039- Αποστολόπουλος Νικόλαος3130012
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
