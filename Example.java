@@ -1,4 +1,3 @@
-//Ευάγγελος Δράικος3150039- Αποστολόπουλος Νικόλαος3130012
 public class Example {
      
     private String category;
